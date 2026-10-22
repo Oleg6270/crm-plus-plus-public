@@ -1,0 +1,8 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Как помочь CRM +++
+    url: https://github.com/Oleg6270/crm-plus-plus-public/blob/main/docs/PARTNERS.md
+    about: Форматы сотрудничества, обратной связи и будущих пилотов
+  - name: Предупреждение о безопасности
+    url: https://github.com/Oleg6270/crm-plus-plus-public/blob/main/docs/PUBLICATION_POLICY.md
+    about: Не публикуйте уязвимости, токены или персональные данные в открытом Issue
